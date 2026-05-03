@@ -1,5 +1,5 @@
 ---
-name: harness-skill-upgrader
+name: mck-harness-skill-upgrader
 description: >-
   Harness Engineering 顾问 — 帮助用户将现有 AI Skill 从「vibe coding 模式」升级为
   「工程化 Harness 模式」。通过 5-7 轮结构化问答（结合七步成诗与战略十问核心理念）
